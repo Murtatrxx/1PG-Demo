@@ -26,3 +26,4 @@ This will help secure your bot token, and make sure your bot does not get hacked
 + http://localhost:3000/auth-guild
 
 In the **[Developer Portal](https://discord.com/developers)** -> **Your Application** -> **OAuth2** 
+Lmao soor
